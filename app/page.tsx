@@ -49,14 +49,14 @@ export default function Home() {
       venue: <>Old Shri Krishna Mandir, <br/>Model Town, Ludhiana</>,
     },
       
-   {
-      title_ceremony: "Shagun & Ring Ceremony",
-      image: "/assets/shagun.webp",
-      date: "Wednesday, November 11th 2026",
-      time: "Join Us at 11 am",
-       venue: <>The Borgo,<br/>  Bulara Road, Gill, Ludhiana.</>,
-      link: "https://maps.app.goo.gl/Y1mkeBFLKP4zKHmE6",
-    }, 
+  //  {
+  //     title_ceremony: "Shagun & Ring Ceremony",
+  //     image: "/assets/shagun.webp",
+  //     date: "Wednesday, November 11th 2026",
+  //     time: "Join Us at 11 am",
+  //      venue: <>The Borgo,<br/>  Bulara Road, Gill, Ludhiana.</>,
+  //     link: "https://maps.app.goo.gl/Y1mkeBFLKP4zKHmE6",
+  //   }, 
   
     {
       title_ceremony: "Mehendi & Sangeet",
